@@ -1,4 +1,3 @@
 print("ahha")
 print(" i am master")
-hhh
-mmj
+print("CHANGE MASTER")
